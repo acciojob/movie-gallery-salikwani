@@ -1,4 +1,4 @@
-.column {
+.cotainer-fluid {
 	display: flex;
 	flex-flow: column wrap;
 }
