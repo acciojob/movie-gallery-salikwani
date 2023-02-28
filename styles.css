@@ -1,2 +1,9 @@
-
+.column {
+	display: flex;
+	flex-flow: column wrap;
+}
+.row {
+	display: flex;
+	flex-flow: row wrap;
+}
 /* Your CSS Code here. */
